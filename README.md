@@ -19,7 +19,7 @@ The [Hand Tracking](HandTracking.py) is the file which contains some Functions a
 [VolumeHandControl](VolumeHandControl.py) is the file which have the logiic to contorl the volume using the functions of the HandTracking.py .
 
 
-![HandGestureControl](ss/1.jpeg)
+![HandGestureControl](ss/1.jpg)
 <hr>
 
-![HandGestureControl](ss/2.jpeg)
+![HandGestureControl](ss/2.jpg)
